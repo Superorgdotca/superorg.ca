@@ -5,7 +5,7 @@ description: >-
   With members of Creative Commons Canada across the country, we led a one-hour 
   remote visioning session to imagine a desirable future and identify
   opportunities to work toward it.
-image: /img/screen-shot-2020-05-18-at-8.45.56-pm.png
+image: /img/screen-shot-2019-12-16-at-8.30.46-pm.png
 ---
 In December 2019, we led a one-hour remote visioning session for Creative Commons Canada. The session was meant as an introduction to the foresight visioning process to help members begin imagining how to align their work with possible futures. Generally, this process would be conducted over a longer period or serve as a starting point for working toward an organizational strategy.
 
