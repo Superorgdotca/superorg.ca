@@ -22,7 +22,7 @@ These are important conversations for us to have together, but they are also con
 
 We still have lots of work and learning to do, alongside working through concrete commitments and principles we should embed in our principles-based practice. We will keep listening and sharing. Love to you all.
 
-We've got a bunch of resources to share. If you want the TL;DR version of this list, check out this [spreadsheet](https://docs.google.com/spreadsheets/d/10zBXn9CS0ehDlKTqJa-BVfG2xT1ZNF4Ifqwby5mseow/edit?usp=sharing).
+**We've got a bunch of resources to share. If you want the TL;DR version of this list, check out this [spreadsheet](https://docs.google.com/spreadsheets/d/10zBXn9CS0ehDlKTqJa-BVfG2xT1ZNF4Ifqwby5mseow/edit?usp=sharing).**
 
 ## Books
 
