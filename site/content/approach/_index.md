@@ -1,10 +1,7 @@
 ---
 title: Approach
+tagline: Superorganism is a design and innovation collective that supports visionary organizations to create clearer, more ambitious strategies for making different worlds possible. We engage with communities, organizations, and enterprises working toward just, sustainable, and common futures.
 ---
-
-Superorganism is a design and innovation collective that helps visionary organizations create clearer, more ambitious strategies to make different worlds possible.
-
-We help communities, organizations, and enterprises working toward just, sustainable, and common futures. 
 
 We design with you to deeply understand the needs and desires of those you serve, to imagine what different worlds are possible, and to orient your present work within this context. 
 
@@ -53,7 +50,7 @@ Listen to contexts, histories, and desires and synthesize insights
 - Interviews
 - Cultural probes
 - Stakeholder engagement
-- Ethnography
+- Observation
 - Literature review
 - Probing and prototyping
 

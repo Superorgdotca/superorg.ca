@@ -1,4 +1,4 @@
 ---
 title: "Home"
-tagline: "Superorganism is a design & innovation collective that helps visionary organizations create clearer, more ambitious strategies to make different worlds possible."
+tagline: "Superorganism is a design and innovation collective that supports visionary organizations to create clearer, more ambitious strategies for making different worlds possible."
 ---
