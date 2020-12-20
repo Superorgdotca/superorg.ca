@@ -1,14 +1,14 @@
 {{ define "main" }}
 
-<div class="ph3 pv6 center mw8">
+<div class="ph5 pv6 center bg-off-white">
 <h1 class="f2 lh-title b mb3">Work</h1>
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 6).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </div>
-      {{ end }}
-  </ul>
+  <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+	{{ range (.Paginator 9).Pages.ByPublishDate.Reverse }}
+		<div class="ph2-ns w-33-ns flex">
+			{{ .Render "li" }}
+		</div>
+	{{ end }}
+</div>
   {{ partial "pagination" . }}
 </div>
 

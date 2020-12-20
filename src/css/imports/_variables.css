@@ -15,7 +15,7 @@
 	--bright-pink: rgba(255, 90, 114, 1);
 
 	/* Typography */
-	--font-family: 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: 'Nunito Sans', 'avenir next', avenir, helvetica, sans-serif;
 	--line-height: 1.5;
 
 	--font-size: 16px;
@@ -31,7 +31,7 @@
 	--spacing-small: .5rem;
 	--spacing-medium: 1rem;
 	--spacing-large: 2rem;
-	--spacing-extra-large: 4rem;
+	--spacing-extra-large: 3rem;
 	--spacing-extra-extra-large: 8rem;
 	--spacing-extra-extra-extra-large: 16rem;
 

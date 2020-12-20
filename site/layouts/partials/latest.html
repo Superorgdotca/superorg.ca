@@ -1,11 +1,11 @@
-<div class="bg-off-white pv4">
-	<div class="ph3 mw8 center">
+<div class="bg-off-white pv5">
+	<div class="ph5 center">
 
 		<h2 class="f2 b lh-title mb3">What we've been up to lately:</h2>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range first 4 (where .Site.RegularPages "Type" "in" (slice "blog" "work")) }}
-				<div class="ph1-ns w-50-ns flex">
+			{{ range first 6 (where .Site.RegularPages "Type" "in" (slice "blog" "work")) }}
+				<div class="ph2-ns w-33-ns flex">
 					{{ .Render "li" }}
 				</div>
 			{{ end }}
