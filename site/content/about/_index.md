@@ -10,6 +10,6 @@ Superorganism is a design collective that produces more super work together than
 - email us at [hello@superorg.ca](mailto:hello@superorg.ca)
 - follow us on [Twitter](https://twitter.com/superorganism__) and [Instagram](https://www.instagram.com/superorganism__/)
 - follow us on [LinkedIn](https://www.linkedin.com/company/28839029/admin/)
-- subscribe to our [newsletter](http://eepurl.com/gQN4Zn)
+- subscribe to our [newsletter](https://superorg.substack.com/)
 
 ## Members
