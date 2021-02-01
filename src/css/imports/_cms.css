@@ -99,4 +99,9 @@
       margin: 0;
     }
   }
+
+  & figcaption > h4 {
+    font-size: 0.7rem;
+  }
+
 }
